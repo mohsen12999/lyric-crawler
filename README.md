@@ -1,3 +1,3 @@
 # lyric crawler
 
-crawler a lyric website to retrieved data from it using python.
+It's a simple crawler made with python that reads music data such as artist, album, and lyrics from a website and saves them in separate files.
